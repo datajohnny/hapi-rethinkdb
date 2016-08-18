@@ -1,6 +1,6 @@
 {
   "name": "hapi-rethinkdb",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Hapi's rethinkdb plugin",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,7 @@
     "url": "https://github.com/ghostbar/hapi-rethinkdb/issues"
   },
   "homepage": "https://github.com/ghostbar/hapi-rethinkdb",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "hapi": ">=14.2.0",
     "rethinkdb": "^2.3.2",
